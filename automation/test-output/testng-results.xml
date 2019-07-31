@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25833" started-at="2019-04-12T10:28:23Z" finished-at="2019-04-12T10:28:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25833" started-at="2019-04-12T10:28:23Z" finished-at="2019-04-12T10:28:49Z">
+      <class name="com.clc.util.ToolsPageTest">
+        <test-method status="PASS" signature="verifyPracticeForm()[pri:0, instance:com.clc.util.ToolsPageTest@1753acfe]" name="verifyPracticeForm" duration-ms="25785" started-at="2019-04-12T15:58:23Z" finished-at="2019-04-12T15:58:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPracticeForm -->
+      </class> <!-- com.clc.util.ToolsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

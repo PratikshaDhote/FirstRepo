@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16505" started-at="2019-07-24T06:57:26Z" finished-at="2019-07-24T06:57:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16505" started-at="2019-07-24T06:57:26Z" finished-at="2019-07-24T06:57:43Z">
+      <class name="com.clc.automation.AutomationFrameworkProject1.Test_Performance_ManageReview">
+        <test-method status="PASS" signature="verifyperformance()[pri:0, instance:com.clc.automation.AutomationFrameworkProject1.Test_Performance_ManageReview@18be83e4]" name="verifyperformance" duration-ms="16480" started-at="2019-07-24T12:27:26Z" finished-at="2019-07-24T12:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyperformance -->
+      </class> <!-- com.clc.automation.AutomationFrameworkProject1.Test_Performance_ManageReview -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
